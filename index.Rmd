@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Sewing for Confident Beginners"
+author: "Sarah Gray"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
